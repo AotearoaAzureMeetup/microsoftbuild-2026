@@ -52,6 +52,10 @@ You will see all the labs.
 
 ![Labs](images/AllLabs.jpg)
 
+Launch the lab.
+
+It will take a few minutes to provision.
+
 Have fun!!!!
 
 If your session times out, go back to the link and click "Sign In".
