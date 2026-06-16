@@ -64,6 +64,12 @@ Then enter your email and password from your registration details.
 
 ![SignIn](images/SignIn.jpg)
 
+**Important**
+
+You will have access to the labs until 5 pm today.
+
+
+
 
 
 
