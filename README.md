@@ -68,6 +68,12 @@ Then enter your email and password from your registration details.
 
 You will have access to the labs until 5 pm today.
 
+## Skillable portal
+
+To see the Skillable portal instruction, go here:
+
+[Portal](Skillable.md)
+
 
 
 
