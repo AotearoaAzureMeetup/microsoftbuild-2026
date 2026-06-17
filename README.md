@@ -2,18 +2,20 @@
 
 ## Schedule
 
-| Time | Activity | Notes |
-| -------- | :------: | -------: |
-| 09 00 am | Keynote ||
+| Time | Activity | 
+| -------- | :------: | 
+| 09 00 am | Keynote |
 | 09 30 am | Breakout 1 |
 | 10 15 am | Coffee break |
 | 10 30 am | Lab 1 |
 | 12 00 pm | Lunch |
 | 12 30 pm | Breakout 2 |
 | 01 15 pm | Lab 2 |
-| 02 30 pm | Wrap up |
+| 02 45 pm | Wrap up |
 
 Breakout 1 is:
+
+**BRK241**: From prototype to production: build and run agents at scale
 
 Breakout 2 is:
 
