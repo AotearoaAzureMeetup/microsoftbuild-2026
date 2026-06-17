@@ -13,6 +13,24 @@
 | 01 15 pm | Lab 2 |
 | 02 30 pm | Wrap up |
 
+Breakout 1 is:
+
+Breakout 2 is:
+
+**BRK203**: From CLI to PR: Automating the path to merged code 
+
+and
+
+**BRK206**: Your agent, anywhere: MultiClient, MultiDevice with GitHub Copilot SDK
+
+You can pick any two labs from:
+
+**LAB501**: From zero to deployed on Azure with AI agents
+
+**LAB520**: Get Started with Models in Microsoft Foundry to Build AI Apps
+
+**LAB540**: Observe, optimize and protect your hosted agents in Microsoft Foundry
+
 ## Useful links
 
 [Microsoft Build localhost content](https://github.com/microsoft/community-content/wiki/Microsoft-Build---localhost-content)
